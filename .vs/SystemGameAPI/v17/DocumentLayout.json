@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Migrations\\20250403170227_SistemaDeGameAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250403170227_SistemaDeGameAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\interfaces\\ijogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:interfaces\\ijogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\migrations\\20250403170227_sistemadegameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:migrations\\20250403170227_sistemadegameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\context\\systemgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\interfaces\\ijogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|solutionrelative:interfaces\\ijogosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39B72D76-469F-43CC-AD9C-457BD33C4C26}|SystemGameAPI.csproj|c:\\users\\55926354862\\desktop\\gameplay_api\\domains\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250403170227_SistemaDeGameAPI.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Migrations\\20250403170227_SistemaDeGameAPI.cs",
               "RelativeDocumentMoniker": "Migrations\\20250403170227_SistemaDeGameAPI.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SystemGameContext.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Context\\SystemGameContext.cs",
               "RelativeDocumentMoniker": "Context\\SystemGameContext.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "Context\\SystemGameContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:01:03.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T17:01:03.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T17:00:30.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T17:00:30.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Domains\\Usuarios.cs",
               "RelativeDocumentMoniker": "Domains\\Usuarios.cs",
@@ -93,25 +91,24 @@
               "RelativeToolTip": "Domains\\Usuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:22:55.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T14:22:55.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T14:16:31.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UsuariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Repositories\\UsuariosRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UsuariosRepository.cs",
@@ -123,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IJogosRepository.cs",
               "DocumentMoniker": "C:\\Users\\55926354862\\Desktop\\GamePlay_API\\Interfaces\\IJogosRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IJogosRepository.cs",
@@ -131,7 +128,8 @@
               "RelativeToolTip": "Interfaces\\IJogosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T13:42:01.84Z"
+              "WhenOpened": "2025-04-03T13:42:01.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
