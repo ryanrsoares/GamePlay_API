@@ -43,7 +43,7 @@ builder.Services.AddSwaggerGen(options =>
         Contact = new OpenApiContact
         {
             Name = "Ryan Rodrigues",
-            Url = new Uri("https://github.com/HerikSpada7/SystemGameAPI")
+            Url = new Uri("https://github.com/ryanrsoares/GamePlay_API")
         },
         License = new OpenApiLicense
         {
